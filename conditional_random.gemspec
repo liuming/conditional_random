@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "conditional_random"
   spec.version       = ConditionalRandom::VERSION
   spec.authors       = ["Ming Liu"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["liuming@lmws.net"]
+  spec.summary       = %q{Generate conditional random with SecureRandom}
+  spec.description   = spec.summary
   spec.homepage      = ""
   spec.license       = "MIT"
 
