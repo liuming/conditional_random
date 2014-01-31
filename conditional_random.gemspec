@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["liuming@lmws.net"]
   spec.summary       = %q{Generate conditional random with SecureRandom}
   spec.description   = spec.summary
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/liuming/conditional_random"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
